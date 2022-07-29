@@ -1,0 +1,14 @@
+interface.spec
+.idea/
+__pycache__/
+build/
+dist/
+downloaded_report/
+fala.mp3
+imprimir.spec
+relatorios/
+Localizador_OS.spec
+geckodriver.log
+.env
+venv/
+text/
