@@ -12,3 +12,4 @@ geckodriver.log
 .env
 venv/
 text/
+ordens_sem_avaliacao.txt
